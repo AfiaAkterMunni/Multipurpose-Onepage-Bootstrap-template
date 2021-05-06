@@ -1,0 +1,4 @@
+Step-1: git status				// Check which file has been changed (green- added | red - Untracked)
+Step-2: git add .				// Add Untracked files to the git
+Step-3: git commit -m "Commit Message"		// Commit Your Message with a String.
+Step-4: git push origin master			// This will finally push to github repo
